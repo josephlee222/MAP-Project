@@ -19,3 +19,4 @@ The app is able to use that information to calculate:
 This app makes use of simple inbuilt features such as navigation and tab view controllers. It makes use of UserDefaults to store user information for future use. It also uses unit tests to check whether the BMI and calorie calculation is correct.  
 
 Joseph Lee - 2021
+Sonarqube files for example test
